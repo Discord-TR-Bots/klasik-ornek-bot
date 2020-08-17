@@ -1,0 +1,22 @@
+{
+  "name": "klasik-ornek-bot",
+  "version": "0.0.1",
+  "description": "Klasik bir bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.1"
+  },
+  "engines": {
+    "node": "4.0.0"
+  };
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "DiscordTRBots",
+  "license": "MIT"
+}
